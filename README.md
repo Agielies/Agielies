@@ -2,6 +2,6 @@
 
 ### I am Agielies
 
-My interested include algorithmic trading, machine learning,fiancial mathematics and statistics.
+My interested include algorithmic trading, machine learning,financial mathematics and statistics.
 
 
