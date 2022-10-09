@@ -1,3 +1,5 @@
-# Hi!
+# Hi there
 
-I am Agielies, my interested include algorithmic trading, machine learning,fiancial mathematics and statistics.
+### I am Agielies/
+
+My interested include algorithmic trading, machine learning,fiancial mathematics and statistics.
